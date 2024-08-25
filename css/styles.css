@@ -1,0 +1,10 @@
+#grid{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+#grid img{
+    border-radius: 8px;
+}
